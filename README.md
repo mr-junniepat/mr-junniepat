@@ -15,7 +15,7 @@ Working on personal projects to help people be more creative with AI
 - 👯 I'm looking to collaborate on SASS and MICRO SASS projects, in the Fintech, creative, edutech, Insuretech, and Medtech industries.
 - 🤖 Passionate about integrating AI tools to enhance user experiences
 - 💬 Ask me about Frontend/Mobile development and AI integration
-- 📫 How to reach me: patrickigwe.com or https://cal.com/patrickigwe
+- 📫 How to reach me: patrickigwe.ca or https://cal.com/patrickigwe
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: -->
 
